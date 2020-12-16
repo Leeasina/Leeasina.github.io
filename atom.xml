@@ -3,11 +3,11 @@
   <title>Always coming for higher</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://leeasina.cn/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://leeasina.cn/"/>
   <updated>2020-12-15T21:09:15.058Z</updated>
-  <id>http://example.com/</id>
+  <id>https://leeasina.cn/</id>
   
   <author>
     <name>LeEas1na</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>hack</title>
-    <link href="http://example.com/2020/12/16/hack/"/>
-    <id>http://example.com/2020/12/16/hack/</id>
+    <link href="https://leeasina.cn/2020/12/16/hack/"/>
+    <id>https://leeasina.cn/2020/12/16/hack/</id>
     <published>2020-12-15T21:00:40.000Z</published>
     <updated>2020-12-15T21:09:15.058Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2020/12/16/hello-world/"/>
-    <id>http://example.com/2020/12/16/hello-world/</id>
+    <link href="https://leeasina.cn/2020/12/16/hello-world/"/>
+    <id>https://leeasina.cn/2020/12/16/hello-world/</id>
     <published>2020-12-15T20:52:33.378Z</published>
     <updated>2020-12-15T20:52:33.378Z</updated>
     
